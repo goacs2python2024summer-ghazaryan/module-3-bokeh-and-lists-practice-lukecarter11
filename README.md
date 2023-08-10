@@ -1,4 +1,4 @@
-# GOACS2 Module 2 - Bokeh and Lists
+# GOACS2 Module 2 - Bokeh and Lists Practice
 
 In this assignment, you will import a **Python package** called `bokeh` to help you run some sample code.  
   
